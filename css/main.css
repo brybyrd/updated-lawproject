@@ -1,6 +1,7 @@
 
 body{
     background: url(../images/nza_background.jpg) no-repeat;
+    background-size: cover;
 }
 
 .page-background {
@@ -9,4 +10,24 @@ body{
 
 footer {
     border-top: 2px solid black;
+}
+
+header {
+    margin-bottom: 15px;;
+}
+
+header nav {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.h-divider {
+    padding: 0 15px;
+}
+
+header ul {
+    margin-bottom: 0;
+}
+header li{
+    padding: 5px 0; 
 }
