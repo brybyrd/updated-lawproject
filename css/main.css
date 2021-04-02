@@ -1,0 +1,12 @@
+
+body{
+    background: url(../images/nza_background.jpg) no-repeat;
+}
+
+.page-background {
+    background-color: #fff;
+}
+
+footer {
+    border-top: 2px solid black;
+}
